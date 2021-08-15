@@ -16,3 +16,5 @@ I'm Aditya, I build Autonomous Mobile Robots! :sunglasses:
 * **Software Tools:** PyTorch, Numpy, ROS 1&2, PCL, OpenCV, OMPL, Eigen
 
 * **Hardware:** Arduino, Jetson Xavier NX, Intel Realsence D435i Depth Camera & T265 Tracking Camera, RPLidar
+
+To Know more [about me](https://aditya-shriwastava.github.io/).
