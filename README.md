@@ -9,7 +9,7 @@
 <br/>
 <br/>
 
-I'm Aditya, I build Autonomous robots! :sunglasses:
+I'm Aditya, I build Autonomous Mobile Robots! :sunglasses:
 #### Skills:
 * **Coding:** C, C++, Python, BASH
 
