@@ -20,3 +20,5 @@ Get in touch with me:
 <a href="https://www.youtube.com/channel/UCFpDGtX8lCK4O5mWY74GhTw">
   <img align="left" alt="Aditya Shriwastava | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
+
+[Blog](https://aditya-shriwastava.github.io/)
