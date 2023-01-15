@@ -4,7 +4,7 @@ I'm Aditya, I build Robot Brain! :sunglasses:
 
 * **Interests:** AI Robotics, Computers
 
-* **Skills:** Linux, C, C++, Python, BASH
+* **Skills:** Linux, C, C++, Python
 
 Get in touch with me:
 
