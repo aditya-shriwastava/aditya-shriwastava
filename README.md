@@ -1,8 +1,8 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm Aditya, I build Robot Brain! :sunglasses:
+I'm Aditya, I love working with AI, robotics, and computers :sunglasses:
 
-* **Interests:** AI Robotics, Computers
+* **Interests:** AI, Robotics, Computers
 
 * **Skills:** Linux, C, C++, Python
 
