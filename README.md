@@ -21,4 +21,6 @@ Get in touch with me:
   <img align="left" alt="Aditya Shriwastava | Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
-[Blog](https://aditya-shriwastava.github.io/)
+<a href="https://aditya-shriwastava.github.io/">
+  <img align="left" alt="Aditya Shriwastava | Blog" src="https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white" />
+</a>
