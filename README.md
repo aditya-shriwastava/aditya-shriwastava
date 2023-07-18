@@ -9,16 +9,16 @@ I'm Aditya, I love working with AI, robotics, and computers :sunglasses:
 Get in touch with me:
 
 <a href="https://www.linkedin.com/in/aditya-shriwastava-b07849143/">
-  <img align="left" alt="Aditya Shriwastava | Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Aditya Shriwastava | Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://twitter.com/AdityaS04570638">
-  <img align="left" alt="Aditya Shriwastava | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Aditya Shriwastava | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
 
 <a href="https://www.youtube.com/channel/UCFpDGtX8lCK4O5mWY74GhTw">
-  <img align="left" alt="Aditya Shriwastava | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+  <img align="left" alt="Aditya Shriwastava | Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
 [Blog](https://aditya-shriwastava.github.io/)
