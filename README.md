@@ -24,3 +24,7 @@ Get in touch with me:
 <a href="https://aditya-shriwastava.github.io/">
   <img align="left" alt="Aditya Shriwastava | Blog" src="https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white" />
 </a>
+
+<a href="https://www.instagram.com/shriwastavaaditya/">
+  <img align="left" alt="Aditya Shriwastava | Blog" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
