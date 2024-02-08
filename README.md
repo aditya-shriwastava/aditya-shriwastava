@@ -1,10 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm Aditya, I love working with AI, robotics, and computers :sunglasses:
-
-* **Interests:** AI, Robotics, Computers
-
-* **Skills:** Linux, C, C++, Python
+I'm Aditya and I build AI robots :sunglasses:
 
 Get in touch with me:
 
@@ -25,6 +21,6 @@ Get in touch with me:
   <img align="left" alt="Aditya Shriwastava | Blog" src="https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white" />
 </a>
 
-<a href="https://www.instagram.com/shriwastavaaditya/">
+<a href="https://www.instagram.com/adityashriwastava7/">
   <img align="left" alt="Aditya Shriwastava | Blog" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
