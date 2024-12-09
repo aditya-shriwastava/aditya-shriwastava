@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm Aditya and I build AI robots :sunglasses:
+I'm Aditya and I build robots brain :sunglasses:
 
 Get in touch with me:
 
