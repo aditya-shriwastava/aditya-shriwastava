@@ -4,7 +4,7 @@ I'm Aditya and I build AI robots :sunglasses:
 
 Get in touch with me:
 
-<a href="https://www.linkedin.com/in/aditya-shriwastava-b07849143/">
+<a href="https://www.linkedin.com/in/adish-ai/">
   <img align="left" alt="Aditya Shriwastava | Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -13,7 +13,7 @@ Get in touch with me:
 </a>
 
 
-<a href="https://www.youtube.com/channel/UCFpDGtX8lCK4O5mWY74GhTw">
+<a href="https://www.youtube.com/@adish-ai">
   <img align="left" alt="Aditya Shriwastava | Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
