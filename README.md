@@ -10,11 +10,6 @@ Get in touch with me:
   <img align="left" alt="Aditya Shriwastava | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
-
 <a href="https://www.youtube.com/@adish-ai">
   <img align="left" alt="Aditya Shriwastava | Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-
-<a href="https://adityash.in/">
-  <img align="left" alt="Aditya Shriwastava | Blog" src="https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white" />
 </a>
